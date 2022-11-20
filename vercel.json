@@ -1,5 +1,5 @@
 {
-   "version": 2,
+   "version": 1,
    "name": "sockets-chat-app",
    "builds": [
       { "src": "server.js", "use": "@vercel/node" }
